@@ -1,0 +1,9 @@
+.git
+build
+dist
+target
+.idea
+nbproject
+docs
+*.iml
+.DS_Store
